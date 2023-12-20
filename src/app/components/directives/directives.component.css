@@ -1,0 +1,15 @@
+.red-tittle {
+    color: red;
+}
+
+.small-title {
+    font-size: 15px;
+}
+
+.underline-text {
+    text-decoration: underline;
+}
+
+h2 {
+    margin-top: 2rem;
+}

@@ -1,0 +1,11 @@
+* {
+    padding-top: 2rem
+}
+
+.name {
+    color: blueviolet;
+    font-size: 25px;
+    background-color: blanchedalmond;
+    width: 200px;
+    padding: 2rem;
+}
